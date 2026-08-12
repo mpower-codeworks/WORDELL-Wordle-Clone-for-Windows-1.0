@@ -6,7 +6,7 @@ Wordell is a Wordle clone for Windows 1.0 written in C. It features
 2,315 possible unique games.
 
 I don't know if there are any Windows 1.0 enthusiasts out there, but if
-you are, this could be your jam. Mouse is available but isn't used.
+you are, this could be your jam. Mouse is available but isn't used (much).
 It's basically a wrapper around the DOS 3.3 version, and the changes
 are solely visual. It's also the exact same game code from the
 [Apple II version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II).
