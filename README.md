@@ -15,8 +15,8 @@ are solely visual. It's also the exact same game code from the
 
 I guess I just wanted to have an excuse to do some actual work in Windows 1.0, and since the
 DOS version went swimmingly it seemed like I should have a go. Windows 1.0 is pretty cool.
-I found that it's really best thought of as a hybrid system, because half the time you'll
-want to jump back into DOS to get things done.
+I found that Windows 1.0 is  really best thought of as a hybrid system, because half the 
+time you'll want to jump back into DOS to get things done.
 
 I did most of the development on a modern PC; doing it all in Windows 1.0 would be torture.
 However, a fair amount was indeed done on 1.0 because it was necessary. I already had the
