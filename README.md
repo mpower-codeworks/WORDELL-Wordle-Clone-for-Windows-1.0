@@ -62,20 +62,24 @@ samples - they're great.
 
 It can. It's fine on Windows 2.0, though sizing is wrong because of the resolution. Also, I
 think Windows 2.0 has more to offer color-wise and maybe some other things. It also runs on
-Windows 3.1 (I didn't try 3.0), however there is a compatibility warning.
+Windows 3.1 (I didn't try 3.0), however there is a compatibility warning. Each of these
+deserves a target-specific version using all the bells and ribbons.
 
 <table>
     <tr>
         <td align="left" width="50%" valign="middle">
             <img src="images/windows2board.jpg" width="100%" alt="Windows 2 Board"><br>
+            Windows 1.0 version on Windows 2.0 
         </td>
         <td align="left" width="50%" valign="middle">
             <img src="images/windows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
+            Windows 3.1 compatibility warning
         </td>
     </tr>
     <tr>
         <td align="left" width="50%" valign="middle">
             <img src="images/windows3board.jpg" width="100%" alt="Windows 3 Board "><br>
+            Windows 1.0 version on Windows 3.1 
         </td>
     </tr>
 </table>
