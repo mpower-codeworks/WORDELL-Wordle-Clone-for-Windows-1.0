@@ -88,8 +88,8 @@ deserves a target-specific version using all the bells and ribbons.
 
 ## What about using Winevdm?
 
-Why yes, yes you can. [Winevdm](https://github.com/otya128/winevdm) is a fantastic tool that
-runs 16-bit applications on modern 64-bit systems. Wordell for Windows 1.0 is no exception.
+Why yes, yes you can. [Winevdm](https://github.com/otya128/winevdm) is a tool that runs
+16-bit applications on modern 64-bit systems. Wordell for Windows 1.0 is no exception.
 As noted above, other versions for it really should be made target-specific. But if you love
 Wordell for Windows 1.0 and can't get enough of it (I can't) then Winevdm works great. I have to
 admit I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one of the Mysteries of the
