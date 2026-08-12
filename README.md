@@ -90,10 +90,10 @@ Why yes, yes you can. [Winevdm](https://github.com/otya128/winevdm) is a fantast
 runs 16-bit applications on modern 64-bit systems. Wordell for Windows 1.0 is no exception.
 As noted above, other versions it really should be made target-specific. But if you love Wordell
 for Windows 1.0 and can't get enough if it (I can't) then Winevdm works great. I have to admit
-I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one the the Mysteries of the Universe.
+I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one of the Mysteries of the Universe.
 Here's a photo of Wordell (WIndows 1.0) running on 11.
 
-<img src="images/wine11.jpg" width=300 alt="Windows 11 Wine">
+<img src="images/wine11.jpg" width=350 alt="Windows 11 Wine">
 
 
 
