@@ -24,6 +24,8 @@ game itself from the DOS version, and I used the "Hello" example from the Window
 SDK 1.0.3 as the template (from Disk 6 of the SDK). Edlin was used very often, and any
 time is a good time for Edlin. Right?
 
+<img src="images/about.jpg" align="right" width="250" alt="Wordell About">
+
 ## How Wordell for Windows 1.0 Works
 
 The Windows 1.0 version of Wordell was built by using the original HELLO SDK sample
