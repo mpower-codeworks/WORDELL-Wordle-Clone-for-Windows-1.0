@@ -33,8 +33,8 @@ samples - they're great.
 
 - Built with Microsoft C 4.0 and the Windows 1.03 SDK
 - DOS-style screen output was replaced with Windows GDI
-- Keyboard input is handled through Windows messages
-- Screen updates are handled through WM_PAINT and InvalidateRect
+- Keyboard input is handled via Windows messages
+- Screen updates are handled with WM_PAINT and InvalidateRect
 - Windows resources provide the application name, icon, About dialog
 
 ## Screenshots
