@@ -78,7 +78,7 @@ deserves a target-specific version using all the bells and ribbons.
     </tr>
     <tr>
         <td align="left" width="50%" valign="middle">
-            <img src="images/windows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
+            <img src="images/wine11.jpg" width="100%" alt="Windows 3 Warning"><br>
             Windows 3.1 compatibility warning
         </td>
     </tr>
@@ -93,7 +93,7 @@ for Windows 1.0 and can't get enough if it (I can't) then Winevdm works great. I
 I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one the the Mysteries of the Universe.
 Here's a photo of Wordell (WIndows 1.0) running on 11.
 
-
+<img src="images/wine11.jpg" width=200 alt="Windows 11 Wine">
 
 
 
