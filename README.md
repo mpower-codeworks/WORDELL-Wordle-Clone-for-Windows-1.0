@@ -28,7 +28,7 @@ time is a good time for Edlin. Right?
 
 The Windows 1.0 version of Wordell was built by using the original HELLO SDK sample
 as the framework, and then the existing DOS Wordell code runs inside it. HELLO provides the
-startup, message loop, window procedure, resources, et al. Thanks to whomever made those
+startup, message loop, window procedure, resources, et al. Thanks to whoever made those
 samples - they're great. 
 
 - Built with Microsoft C 4.0 and the Windows 1.03 SDK
