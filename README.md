@@ -58,4 +58,28 @@ samples - they're great.
     </tr>
 </table>
 
+### Wait, can it run on other versions of Windows?
+
+It can. It's fine on Windows 2.0, though sizing is wrong because of the resolution. Also, I
+think Windows 2.0 has more to offer color-wise and maybe some other things. It also runs on
+Windows 3.1 (I didn't try 3.0), however there is a compatibility warning.
+
+<table>
+    <tr>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/windows2board.jpg" width="100%" alt="Windows 2 Board"><br>
+        </td>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/windows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" width="50%" valign="middle">
+            <img src="images/windows3board.jpg" width="100%" alt="Windows 3 Board "><br>
+        </td>
+    </tr>
+</table>
+
+
+
 
