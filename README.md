@@ -69,17 +69,17 @@ deserves a target-specific version using all the bells and ribbons.
     <tr>
         <td align="left" width="50%" valign="middle">
             <img src="images/windows2board.jpg" width="100%" alt="Windows 2 Board"><br>
-            Windows 1.0 version on Windows 2.0 
+            Windows 1.0 version on Windows 2.0
         </td>
-        <td align="left" width="50%" valign="middle">
-            <img src="images/windows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
-            Windows 3.1 compatibility warning
+        <td align="left" width="50%" valign="middle" rowspan="2">
+            <img src="images/windows3board.jpg" width="100%" alt="Windows 3 Board"><br>
+            Windows 1.0 version on Windows 3.1
         </td>
     </tr>
     <tr>
         <td align="left" width="50%" valign="middle">
-            <img src="images/windows3board.jpg" width="100%" alt="Windows 3 Board "><br>
-            Windows 1.0 version on Windows 3.1 
+            <img src="images/windows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
+            Windows 3.1 compatibility warning
         </td>
     </tr>
 </table>
