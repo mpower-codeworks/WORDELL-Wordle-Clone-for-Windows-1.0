@@ -15,7 +15,7 @@ are solely visual. It's also the exact same game code from the
 
 I guess I just wanted to have an excuse to do some actual work in Windows 1.0, and since the
 DOS version went swimmingly it seemed like I should have a go. Windows 1.0 is pretty cool.
-I found that Windows 1.0 is  really best thought of as a hybrid system, because half the 
+I found that Windows 1.0 is really best thought of as a hybrid system, because half the 
 time you'll want to jump back into DOS to get things done.
 
 I did most of the development on a modern PC; doing it all in Windows 1.0 would be torture.
@@ -50,10 +50,10 @@ samples - they're great.
     </tr>
     <tr>
         <td align="left" width="50%" valign="middle">
-            <img src="images/windows1board.jpg" width="100%" alt="Windows 1 "><br>
+            <img src="images/windows1board.jpg" width="100%" alt="Windows 1 Board"><br>
         </td>
         <td align="left" width="50%" valign="middle">
-            <img src="images/windows1stats.jpg" width="100%" alt="Windows 1 "><br>
+            <img src="images/windows1stats.jpg" width="100%" alt="Windows 1 Stats"><br>
         </td>
     </tr>
 </table>
@@ -89,7 +89,7 @@ deserves a target-specific version using all the bells and ribbons.
 Why yes, yes you can. [Winevdm](https://github.com/otya128/winevdm) is a fantastic tool that
 runs 16-bit applications on modern 64-bit systems. Wordell for Windows 1.0 is no exception.
 As noted above, other versions for it really should be made target-specific. But if you love
-Wordell for Windows 1.0 and can't get enough if it (I can't) then Winevdm works great. I have to
+Wordell for Windows 1.0 and can't get enough of it (I can't) then Winevdm works great. I have to
 admit I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one of the Mysteries of the
 Universe. Here's a photo of Wordell (Windows 1.0) running on 11.
 
