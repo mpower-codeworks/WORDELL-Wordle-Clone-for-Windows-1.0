@@ -78,7 +78,7 @@ deserves a target-specific version using all the bells and ribbons.
     </tr>
     <tr>
         <td align="left" width="50%" valign="middle">
-            <img src="images/wine3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
+            <img src="images/winqows3warn.jpg" width="100%" alt="Windows 3 Warning"><br>
             Windows 3.1 compatibility warning
         </td>
     </tr>
