@@ -93,7 +93,7 @@ for Windows 1.0 and can't get enough if it (I can't) then Winevdm works great. I
 I never know what to call it. WineVDM? Otvdm? Otvdmw? It's one the the Mysteries of the Universe.
 Here's a photo of Wordell (WIndows 1.0) running on 11.
 
-<img src="images/wine11.jpg" width=200 alt="Windows 11 Wine">
+<img src="images/wine11.jpg" width=300 alt="Windows 11 Wine">
 
 
 
