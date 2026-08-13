@@ -2,8 +2,8 @@
 
 <img src="images/logo.jpg" align="left" width="250" alt="Wordell Logo">
 
-Wordell is a Wordle clone for Windows 1.0 written in C. It features
-2,315 possible unique games.
+Wordell is a Wordle clone for Windows 1.0 written in Microsoft C 4.0 and the
+Windows SDK 1.0.3. It features a GUI and 2,315 possible unique games.
 
 I don't know if there are any Windows 1.0 enthusiasts out there, but if
 you are, this could be your jam. Mouse is available but isn't used (much).
