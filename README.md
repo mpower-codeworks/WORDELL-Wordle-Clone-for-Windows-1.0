@@ -14,7 +14,8 @@ It's also the exact same game code from the
 [Apple II version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II).
 
 Wordell for Windows 1.0 has all the files packed into the exe, so there is only
-one file, `WORDELL.exe`. It was done this way just to make the toolchain more stable.
+one file, `WORDELL.exe` needed to run the game. It was done this way just to make
+the toolchain more stable.
 
 ### Why man, _why_?
 
