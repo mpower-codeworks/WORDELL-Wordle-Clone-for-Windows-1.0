@@ -1,0 +1,20 @@
+#include "style.h"
+#include "wordell.h"
+
+WORDELLICON ICON wordell.ico
+
+STRINGTABLE
+BEGIN
+    IDSNAME,  "Wordell"
+    IDSABOUT, "About..."
+    IDSTITLE, "WORDELL"
+END
+
+ABOUTBOX DIALOG 22, 17, 154, 75
+STYLE WS_POPUP | WS_DLGFRAME
+BEGIN
+    CTEXT "WORDELL"                              -1, 0, 14, 154, 8
+    CTEXT "Windows 1.0 edition"                  -1, 0, 23, 154, 8
+    CTEXT "2026 M.Power"                         -1, 0, 36, 154, 9
+    DEFPUSHBUTTON "Ok"                        IDOK, 61, 59, 32, 14, WS_GROUP
+END

@@ -1,0 +1,15 @@
+NAME    Wordell
+
+DESCRIPTION 'WORDELL for Microsoft Windows 1.x'
+
+STUB    'WINSTUB.EXE'
+
+CODE    MOVEABLE
+DATA    MOVEABLE MULTIPLE
+
+HEAPSIZE  256
+STACKSIZE 4096
+
+EXPORTS
+    WordellWndProc @1
+    About          @2

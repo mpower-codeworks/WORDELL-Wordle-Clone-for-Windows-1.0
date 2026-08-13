@@ -1,0 +1,55 @@
+#
+#  WORDELL for Microsoft Windows 1.x
+#  Microsoft C 4.0 / Windows SDK 1.03
+#
+
+cp=cl -d -c -AS -Gsw -Os -Zpe
+
+OBJLIST = wordell.obj wordpack.obj packaf.obj packgl.obj \
+          packmr.obj packsx.obj packyz.obj packsol.obj
+
+#
+#  Standard inference rule
+#
+.c.obj:
+    $(cp) $*.c
+
+#
+#  Program objects
+#
+wordell.obj: wordell.c wordell.h wordpack.h
+
+wordpack.obj: wordpack.c wordpack.h
+
+#
+#  Generated word-data objects
+#
+packaf.obj: packaf.c
+    $(cp) packaf.c
+
+packgl.obj: packgl.c
+    $(cp) packgl.c
+
+packmr.obj: packmr.c
+    $(cp) packmr.c
+
+packsx.obj: packsx.c
+    $(cp) packsx.c
+
+packyz.obj: packyz.c
+    $(cp) packyz.c
+
+packsol.obj: packsol.c
+    $(cp) packsol.c
+
+wordell.res: wordell.rc wordell.ico wordell.h
+    rc -r wordell.rc
+
+#
+#  Executable
+#
+wordell.exe: wordell.def wordell.res $(OBJLIST) wordell.lnk
+    link4 @wordell.lnk
+    mapsym wordell
+    rc wordell.rc wordell.exe
+
