@@ -9,7 +9,8 @@ I don't know if there are any Windows 1.0 enthusiasts out there, but if
 you are, this could be your jam. Mouse is available but isn't used (much).
 It's basically a wrapper around the
 [DOS 3.3 version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-MS-DOS-3.3),
-and the changes are solely visual. It's also the exact same game code from the
+with the same game underneath and a Windows 1.0 interface wrapped around it.
+It's also the exact same game code from the
 [Apple II version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II).
 
 Wordell for Windows 1.0 has all the files packed into the exe, so there is only
