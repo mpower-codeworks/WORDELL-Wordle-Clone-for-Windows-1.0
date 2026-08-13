@@ -100,7 +100,11 @@ Universe. Here's a photo of Wordell (Windows 1.0) running on 11.
 
 <img src="images/wine11.jpg" width=500 alt="Windows 11 Wine">
 
+## Building the Source Code
 
+Setting up MS C 4.0 and the Windows 1.0.3 SDK is a beast (at least it was for me). There's no
+way I could type all that out here. If you are interested in doing so and get stuck, email me.
+I can look through my setup or I can just send you a working image. That would probably be easiest.
 
 
 
